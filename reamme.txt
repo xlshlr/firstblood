@@ -1,5 +1,5 @@
 ﻿Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is free software distributed under and 滴滴阿萨 the GPL.
 呵呵呵呵呵呵
 哈哈哈
 呵呵呵
@@ -13,3 +13,4 @@ Git is free software distributed under the GPL.
 
 
 爱的是放假啊
+Creating a new branch is quick AND simple.
