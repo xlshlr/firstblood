@@ -2,8 +2,4 @@ Git is a version control system.
 Git is free software.
 
 
-
-issue-101被修复了。。。
-
-bug111
-
+新功能vulcan
