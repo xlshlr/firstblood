@@ -13,3 +13,12 @@ asdfasd asdfasdf asdfasdf
 爱的是放假啊
 Creating a new branch is quick AND simple.
 asdfasdf
+
+我做事儿做到一半了，还没做完，现在要紧急修改一个bug，看着办吧
+
+
+
+其实是另一个事儿。。。。。。。这个才是真事儿，我在dev分支更改的，看看到了master还有么有。
+
+
+
